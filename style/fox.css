@@ -1,0 +1,19 @@
+.lightgreen_underline{
+    color:#90EE90;
+    text-decoration: underline;
+}
+.underline{
+    text-decoration: underline;
+}
+span{
+    font-style: italic;
+    color:red;
+}
+.img_left{
+    float: left;
+    width: 30%;
+}
+.img_right{
+    float: right;
+    width: 35%;
+}
